@@ -1,0 +1,12 @@
+var turtle = TinyTurtle.apply(window); 
+turtle.forward(50)
+turtle.left(50)
+turtle.stamp()
+turtle.forward(30)
+turtle.left(30)
+turtle.stamp()
+turtle.forward(35)
+turtle.left(180)
+turtle.forward(100)
+turtle.right(35)
+turtle.forward(35)
